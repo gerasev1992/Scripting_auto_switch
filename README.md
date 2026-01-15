@@ -1,1 +1,1 @@
-# Scripting_auto_switch
+# Scripts for automation
