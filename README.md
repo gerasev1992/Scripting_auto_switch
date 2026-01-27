@@ -1,4 +1,4 @@
-# Scripts for automation
+# Scripts for automation network devices
 
 [snr5210g_acl](switch_scripts/snr5210g_acl.py)
 
