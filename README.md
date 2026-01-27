@@ -2,6 +2,6 @@
 
 [script_for_automatic_ACL_configuration_on_snr_5210](https://github.com/gerasev1992/script_for_automatic_configuration_of_network_devices/blob/main/switch_scripts/script_for_automatic_ACL_configuration_on_snr_5210.py "Задача: обновить ACL на более чем 2000 коммутаторах")
 
-[script_for_dynamic_ACL_replacement_on_dlink_des-3200_switches.py](https://github.com/gerasev1992/script_for_automatic_configuration_of_network_devices/blob/main/switch_scripts/script_for_dynamic_ACL_replacement_on_dlink_des-3200_switches.py "Задача: обновить ACL на более чем 1000 коммутаторах")
+[script_for_dynamic_ACL_replacement_on_dlink_des-3200_switches](https://github.com/gerasev1992/script_for_automatic_configuration_of_network_devices/blob/main/switch_scripts/script_for_dynamic_ACL_replacement_on_dlink_des-3200_switches.py "Задача: обновить ACL на более чем 1000 коммутаторах")
 
 [juniper_routes](routers_scripts/juniper_routes.py)
