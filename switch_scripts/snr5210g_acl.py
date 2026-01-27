@@ -1,5 +1,4 @@
-```
-from netmiko import ConnectHandler
+```from netmiko import ConnectHandler
 import getpass
 import re
 import time
