@@ -1,10 +1,9 @@
-```text
 from netmiko import ConnectHandler
 import getpass
 import re
 import time
 from datetime import datetime
-```
+
 DEVICE_IPS = [	      
     #'X.X.X.X',	     
     #'Y.Y.Y.Y',	    
@@ -244,7 +243,7 @@ def main():
     #        f.write(f"  {result['ip']}: {status}\n")
 
 if __name__ == "__main__":
-    main()```
+    main()
 
 
 
