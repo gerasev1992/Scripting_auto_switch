@@ -99,7 +99,7 @@ script_for_automatic_configuration_of_network_devices/
 └── script_for_dditional_subscriber_disconnections_under_various_conditions/
      ├── main.py
      ├── script_parsing_crm.py
-     └──
+     └── shutdown_port.py
 ```
 
 ## 🛡 Безопасность и этика
