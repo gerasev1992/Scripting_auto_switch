@@ -99,7 +99,7 @@
 - 
 - 
 
-[**`Код скрипта`**](/script_for_dditional_subscriber_disconnections_under_various_conditions/main.py)
+[**`Код скрипта`**](/script_for_dditional_subscriber_disconnections_under_various_conditions)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </details>
