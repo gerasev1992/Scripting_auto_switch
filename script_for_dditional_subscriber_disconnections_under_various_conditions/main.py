@@ -25,7 +25,7 @@ def run_script(script_name):
 
 def run_all_scripts():   
     # Запускаем скрипты последовательно
-    scripts = ["script_parsing_crm_TO_GIT.py", "shutdown_pppoe_port_TO_GIT.py"]   
+    scripts = ["script_parsing_crm.py", "shutdown_pppoe_port.py"]   
     results = {}
     for script in scripts:
         results[script] = run_script(script)
